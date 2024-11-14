@@ -16,10 +16,10 @@ As a cybersecurity professional with two years of experience, my primary goal is
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/AnthonyKendall/Wazuh">Wazuh</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/AnthonyKendall/Security-Onion">Security Onion</a>|
+| DNS protection setup and configuration | <a href="https://github.com/AnthonyKendall/DNSFilter">DNSFilter</a>|
 
 
 ## Skills
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
