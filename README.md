@@ -14,8 +14,8 @@ As a cybersecurity professional with two years of experience, my primary goal is
 
 | Skills Learned                                        | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/AnthonyKendall/Wazuh">Wazuh SIEM setup</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/AnthonyKendall/Wazuh">Wazuh</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/AnthonyKendall/Security-Onion">Security Onion</a>|
 
 
 ## Skills
@@ -34,17 +34,7 @@ As a cybersecurity professional with two years of experience, my primary goal is
     <img src="https://img.shields.io/badge/-Wazuh-40AEF0?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Palo%20Alto-3F4F75?style=for-the-badge&logo=paloaltonetworks" />
     <img src="https://img.shields.io/badge/-ProofPoint-525DDC?style=for-the-badge" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
-    <img src="" />
+    
 </div>
 
 ## Certifications
