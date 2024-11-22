@@ -40,7 +40,6 @@ As a cybersecurity professional with two years of experience, my primary goal is
     <img src="https://img.shields.io/badge/-FreshService%20ITSM-00FF7B?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Security%20Awareness%20Training-7D929E?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Vulnerability%20Assessment-007BFC?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/-Vulnerability%20Assessment-007BFC?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Spam%20Titan-FF5A5F?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-DNS%20Filter-2322F0?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-DUO-00A672?style=for-the-badge" />
