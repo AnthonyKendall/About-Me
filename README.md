@@ -73,4 +73,4 @@ As a cybersecurity professional with two years of experience, my primary goal is
 ## Projects
 - Wazuh
 - Security Onion
-- DNSFilter
+- OpenVas
