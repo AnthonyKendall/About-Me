@@ -16,6 +16,7 @@ As a cybersecurity professional with two years of experience, my primary goal is
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/AnthonyKendall/Wazuh">Wazuh</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/AnthonyKendall/Security-Onion">Security Onion</a>|
 | Vulnerability discovery and management | <a href="https://github.com/AnthonyKendall/OpenVas">OpenVas</a>|
+| Virtual Machine creation and management | <a href="https://github.com/AnthonyKendall/Proxmox">ProxMox</a>|
 
 
 ## Skills
