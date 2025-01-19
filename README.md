@@ -75,3 +75,4 @@ As a cybersecurity professional with two years of experience, my primary goal is
 - Wazuh
 - Security Onion
 - OpenVas
+- -Proxmox
