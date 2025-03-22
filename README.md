@@ -1,7 +1,7 @@
 # Hello, my name is Anthony! 
 <a href="https://www.linkedin.com/in/anthony-kendall-774191200/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a recent college graduate who graduated at the top of my class, and I’ve been working professionally in cybersecurity for the past two years. My journey into the field started with my love for gaming, which sparked my curiosity about the inner workings of digital security. Over time, this interest grew into a full-fledged career, and I've developed a deep passion for cybersecurity.
+I’m a recent college graduate who graduated at the top of my class, and I’ve been working professionally in cybersecurity for the past three years. My journey into the field started with my love for gaming, which sparked my curiosity about the inner workings of digital security. Over time, this interest grew into a full-fledged career, and I've developed a deep passion for cybersecurity.
 
 I’m always eager to learn and expand my knowledge, continually exploring new technologies, techniques, and trends to enhance my skills. My goal is to become a well-rounded cybersecurity professional with a broad understanding of the various domains and skill sets within the field, always staying ahead of the curve and adapting to the evolving landscape of digital security.
 
