@@ -55,6 +55,10 @@ As a cybersecurity professional with a few years of experience, my primary goal 
     <img src="https://img.shields.io/badge/-NinjaOne-EC1C24?style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Huntress-0A84FF?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Connectwise-%232E69AE?style=for-the-badge&labelColor=%233B99FC" />
+    <img src="https://img.shields.io/badge/Openvas-%237EBC6F?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Axcient-%23BA0C2F?style=for-the-badge" />
+    
+    
     
     
     
