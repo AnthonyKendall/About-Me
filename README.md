@@ -57,7 +57,12 @@ As a cybersecurity professional with a few years of experience, my primary goal 
     <img src="https://img.shields.io/badge/Connectwise-%232E69AE?style=for-the-badge&labelColor=%233B99FC" />
     <img src="https://img.shields.io/badge/Openvas-%237EBC6F?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Axcient-%23BA0C2F?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Keeper-%23027E6F?style=for-the-badge&logo=keeper" />
+    <img src="https://img.shields.io/badge/MDM-%234250AF?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Scalefusion-%23FDB515?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Bitdefender-%23ED1C24?style=for-the-badge&logo=bitdefender" />
     
+
     
     
     
