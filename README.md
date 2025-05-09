@@ -1,13 +1,13 @@
 # Hello, my name is Anthony! 
 <a href="https://www.linkedin.com/in/anthony-kendall-774191200/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I’m a recent college graduate who graduated at the top of my class, and I’ve been working professionally in cybersecurity for the past three years. My journey into the field started with my love for gaming, which sparked my curiosity about the inner workings of digital security. Over time, this interest grew into a full-fledged career, and I've developed a deep passion for cybersecurity.
+I’m a college graduate who graduated at the top of my class, and I’ve been working professionally in cybersecurity for the past three years. My journey into the field started with my love for gaming, which sparked my curiosity about the inner workings of digital security. Over time, this interest grew into a full-fledged career, and I've developed a deep passion for cybersecurity.
 
 I’m always eager to learn and expand my knowledge, continually exploring new technologies, techniques, and trends to enhance my skills. My goal is to become a well-rounded cybersecurity professional with a broad understanding of the various domains and skill sets within the field, always staying ahead of the curve and adapting to the evolving landscape of digital security.
 
 ## Objective
 
-As a cybersecurity professional with two years of experience, my primary goal is to become a well-rounded expert across various domains of the field. I aim to continuously expand my skill set and knowledge, with a long-term focus on ethical hacking and penetration testing. I am passionate about mastering the techniques and tools used by attackers to better defend systems and networks. My ultimate objective is to be proficient in all facets of cybersecurity, enabling me to tackle complex security challenges and contribute to a safer digital world.
+As a cybersecurity professional with a few years of experience, my primary goal is to become a well-rounded expert across various domains of the field. I aim to continuously expand my skill set and knowledge, with a long-term focus on ethical hacking and penetration testing. I am passionate about mastering the techniques and tools used by attackers to better defend systems and networks. My ultimate objective is to be proficient in all facets of cybersecurity, enabling me to tackle complex security challenges and contribute to a safer digital world.
 
 ## Project learning
 
