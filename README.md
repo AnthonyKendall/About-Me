@@ -1,6 +1,8 @@
 # Hello, my name is Anthony ortherwise known as Zytoe!
 <a href="https://www.linkedin.com/in/anthony-kendall-774191200/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=111927)](https://profile.hackthebox.com/profile/019e8550-be61-7328-a9e0-12cc23842cda)
+
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Zytoe)
 
 
