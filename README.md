@@ -67,6 +67,7 @@ As a cybersecurity professional with a couple years of experience, my primary go
     <img src="https://img.shields.io/badge/MDM-%234250AF?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Scalefusion-%23FDB515?style=for-the-badge" />
     <img src="https://img.shields.io/badge/Bitdefender-%23ED1C24?style=for-the-badge&logo=bitdefender" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     
 
     
