@@ -1,7 +1,5 @@
 # Hello, my name is Anthony! 
 <a href="https://www.linkedin.com/in/anthony-kendall-774191200/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://profile.hackthebox.com/profile/019e8550-be61-7328-a9e0-12cc23842cda/"><img  
-
 
 
 I hold a master’s degree in Cybersecurity Management and a bachelor’s degree in Cybersecurity. I have been working professionally in cybersecurity for the past four years, with hands-on experience across a wide range of security-focused initiatives and projects. My interest in the field originally developed through my passion for gaming, which sparked a deeper curiosity about how digital systems operate and are secured.
