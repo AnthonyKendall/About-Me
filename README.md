@@ -1,6 +1,6 @@
 # Hello, my name is Anthony! 
 <a href="https://www.linkedin.com/in/anthony-kendall-774191200/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://profile.hackthebox.com/profile/019e8550-be61-7328-a9e0-12cc23842cda/">img src="https://img.shields.io/badge/hack-the-box?style=for-the-badge&color=%239FEF00" /></a>
+<a href="https://profile.hackthebox.com/profile/019e8550-be61-7328-a9e0-12cc23842cda/"><img  
 
 
 
