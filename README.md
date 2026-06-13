@@ -83,7 +83,7 @@ As a cybersecurity professional with a couple years of experience, my primary go
 
 <div>
 <img src="https://img.shields.io/badge/-CC-333333?style=for-the-badge&logo=isc2" />
-![BTL1](https://img.shields.io/badge/BTL1-Blue%20Team%20Level%201-1185FE?style=for-the-badge)
+<img src="https://img.shields.io/badge/BTL1-Blue%20Team%20Level%201-1185FE?style=for-the-badge" />
 </div>
 
 ## Projects
