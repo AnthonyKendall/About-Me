@@ -83,10 +83,7 @@ As a cybersecurity professional with a couple years of experience, my primary go
 
 <div>
 <img src="https://img.shields.io/badge/-CC-333333?style=for-the-badge&logo=isc2" />
-<img src="https://img.shields.io/badge/-Proofpoint%20Certified%20DLP%20Specialist-FF0000?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Proofpoint%20Certified%20Email%20Authentication-41454A?style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Proofpoint%20Certified%20Phishing%20Specialist-3B66BC?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Proofpoint%20Certified%20Ransomware%20Specialist-%230072EF?style=for-the-badge" />
+![BTL1](https://img.shields.io/badge/BTL1-Blue%20Team%20Level%201-1185FE?style=for-the-badge)
 </div>
 
 ## Projects
