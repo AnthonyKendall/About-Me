@@ -71,6 +71,7 @@ As a cybersecurity professional with a couple years of experience, my primary go
     <img src="https://img.shields.io/badge/1Password-145FE4?style=for-the-badge&logo=1password&logoColor=white" />
     <img src="https://img.shields.io/badge/Mimecast-003D8F?style=for-the-badge&logo=mimecast&logoColor=white" />
     <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
     
 
     
