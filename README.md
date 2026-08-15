@@ -4,6 +4,7 @@
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Zytoe)
 
 🚀 About Me
+
 I hold a master’s degree in Cybersecurity Management and a bachelor’s degree in Cybersecurity. I have been working professionally in cybersecurity for the past four years, with hands-on experience across a wide range of security-focused initiatives and projects. My interest in the field originally developed through my passion for gaming, which sparked a deeper curiosity about how digital systems operate and are secured.
 
 Over time, that curiosity evolved into a dedicated cybersecurity career. I actively work on security projects that challenge me to apply and refine my technical expertise, and I maintain a strong focus on continuous improvement across both defensive and offensive domains.
