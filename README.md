@@ -22,7 +22,7 @@ As a cybersecurity professional with a couple years of experience, my primary go
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/AnthonyKendall/Security-Onion">Security Onion</a>|
 | Vulnerability discovery and management | <a href="https://github.com/AnthonyKendall/OpenVas">OpenVas</a>|
 | Virtual Machine creation and management | <a href="https://github.com/AnthonyKendall/Proxmox">ProxMox</a>|
-| Azure AD setup | <a href="https://github.com/AnthonyKendall/Proxmox">Azure AD</a>|
+| Azure AD setup | <a href="https://github.com/AnthonyKendall/Azure-AD-Setup">Azure AD</a>|
 
 
 ## Skills
