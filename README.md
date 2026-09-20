@@ -14,15 +14,6 @@ My goal is to further strengthen my capabilities as both a defensive security an
 
 As a cybersecurity professional with a couple years of experience, my primary goal is to become a well-rounded expert across various domains of the field. I aim to continuously expand my skill set and knowledge, with a long-term focus on ethical hacking and penetration testing. I am passionate about mastering the techniques and tools used by attackers to better defend systems and networks. My ultimate objective is to be proficient in all facets of cybersecurity, enabling me to tackle complex security challenges and contribute to a safer digital world.
 
-## Project learning
-
-| Skills Learned                                        | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/AnthonyKendall/Wazuh">Wazuh</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/AnthonyKendall/Security-Onion">Security Onion</a>|
-| Vulnerability discovery and management | <a href="https://github.com/AnthonyKendall/OpenVas">OpenVas</a>|
-| Virtual Machine creation and management | <a href="https://github.com/AnthonyKendall/Proxmox">ProxMox</a>|
-| Azure AD setup | <a href="https://github.com/AnthonyKendall/Azure-AD-Setup">Azure AD</a>|
 
 
 ## Skills
@@ -90,6 +81,18 @@ As a cybersecurity professional with a couple years of experience, my primary go
 <img src="https://img.shields.io/badge/-CC-333333?style=for-the-badge&logo=isc2" />
 <img src="https://img.shields.io/badge/Blue%20Team%20Level%201-1185FE?style=for-the-badge" />
 </div>
+
+
+## Project learning
+
+| Skills Learned                                        | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/AnthonyKendall/Wazuh">Wazuh</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://github.com/AnthonyKendall/Security-Onion">Security Onion</a>|
+| Vulnerability discovery and management | <a href="https://github.com/AnthonyKendall/OpenVas">OpenVas</a>|
+| Virtual Machine creation and management | <a href="https://github.com/AnthonyKendall/Proxmox">ProxMox</a>|
+| Azure AD setup | <a href="https://github.com/AnthonyKendall/Azure-AD-Setup">Azure AD</a>|
+
 
 ## Projects
 - Wazuh
