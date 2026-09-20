@@ -99,3 +99,4 @@ As a cybersecurity professional with a couple years of experience, my primary go
 - Security Onion
 - OpenVas
 - Proxmox
+- Azure AD Setup
